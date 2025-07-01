@@ -14,12 +14,26 @@ An online library management platform with full functionality. Includes features
 
 ## 🚀 Getting Started (Local Development)
 
-### 1. Clone the Repository
+### 1. Download the Project
+
+You have two options to get the project:
+
+#### ✅ Option A: Clone via Git
 
 ```bash
-git clone https://gitlab.com/murod-karabekov/e-libraryplatform.git
-cd e-libraryplatform
+git clone https://github.com/Murod-Karabekov/E-LibraryPlatform.git
+cd E-LibraryPlatform
 ```
+
+#### 📦 Option B: Download ZIP
+
+Download the full project as a ZIP file:
+
+🔗 [Download ZIP from Google Drive](https://drive.google.com/file/d/1pYuCVQ7HwwcjwoKnntGAIJyIMu1oBpWJ/view?usp=sharing)
+
+After downloading:
+- Extract the ZIP archive
+- Open the folder: `E-LibraryPlatform`
 
 ---
 
